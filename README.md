@@ -1,20 +1,90 @@
-# Nexa_TopUp
+# ⚡ NexaTopup — Sistem Transaksi Top Up Mobile Legends
 
-# NexaTopup: Sistem Transaksi Top Up Mobile Legends
+**NexaTopup** — Sistem Transaksi Top Up Mobile Legends berbasis web menggunakan PHP Native dan MySQL.
 
-NexaTopup adalah website top up Mobile Legends berbasis PHP dan MySQL yang menyediakan layanan pembelian diamond, membership, dan bundle item secara online. Sistem ini dilengkapi dengan fitur autentikasi pengguna, riwayat transaksi, dashboard admin, serta berbagai metode pembayaran digital.
+---
 
-## ✨ Fitur Utama
+## 📖 Description
 
-### 👤 User
-- Login & Register menggunakan session PHP
-- Top up diamond Mobile Legends
-- Pembelian membership:
+**NexaTopup** adalah website layanan top up game Mobile Legends yang memungkinkan pengguna melakukan pembelian diamond, membership, dan bundle item secara online dengan berbagai metode pembayaran digital.
+
+Sistem menyediakan fitur autentikasi pengguna, riwayat transaksi, dashboard admin, serta manajemen produk dan pesanan. Website dirancang menggunakan PHP Native, MySQL, HTML, CSS, dan JavaScript dengan tampilan modern dan responsive.
+
+---
+
+## 👥 Team Members & Responsibilities
+
+### 1. 🎨 Lalu Farras Hanif Aslam — Frontend Developer
+`F1D02410118`
+
+#### Responsibilities
+- Mendesain tampilan website
+- Membuat halaman UI/UX
+- Mengatur responsive design
+- Membuat interaksi menggunakan JavaScript
+- Styling menggunakan CSS
+
+---
+
+### 2. ⚙️ Muhammad Fathan Abdullah — Backend Developer
+`F1D02410124`
+
+#### Responsibilities
+- Membuat logic sistem menggunakan PHP
+- Membuat autentikasi login/register
+- Mengelola session user
+- Membuat proses checkout
+- Membuat CRUD admin
+- Menghubungkan website ke database
+
+---
+
+### 3. 🗄️ Muhammad Ikbal — Database Designer / System Analyst
+`F1D02410141`
+
+#### Responsibilities
+- Mendesain database
+- Membuat relasi tabel
+- Membuat query SQL
+- Mengelola struktur data transaksi
+- Dokumentasi project
+- Testing sistem
+
+---
+
+## 👤 User / Actor Website
+
+### 👥 User
+- Register akun
+- Login akun
+- Top up Diamond Mobile Legends
+- Membeli membership
+- Melihat riwayat transaksi
+- Logout akun
+
+### ⚙️ Admin
+- Login admin
+- Mengelola produk top up
+- Mengelola transaksi
+- Update status pesanan
+- Melihat statistik transaksi
+- Menghapus / mengedit produk
+
+---
+
+## ✨ Main Features
+
+### 👤 User Features
+- Login & Register menggunakan PHP Session
+- Top up Diamond Mobile Legends
+- Membership purchase:
   - Starlight Member
   - Starlight Plus
   - Twilight Pass
-- Pembelian special bundle & pack
-- Pilihan metode pembayaran:
+- Special bundle purchase
+- Responsive UI
+- Riwayat transaksi
+- Multiple payment methods:
   - GoPay
   - OVO
   - DANA
@@ -23,22 +93,26 @@ NexaTopup adalah website top up Mobile Legends berbasis PHP dan MySQL yang menye
   - Transfer Bank
   - Kartu Kredit
   - Pulsa
-- Riwayat transaksi pengguna
-- Tampilan responsive dan modern
 
-### ⚙️ Admin
-- Dashboard admin
-- Melihat statistik transaksi
-- CRUD produk top up
-- Mengelola pesanan
-- Update status transaksi
+### ⚙️ Admin Features
+- Dashboard Admin
+- CRUD Product
+- Manage Orders
+- Update Transaction Status
+- Transaction Statistics
 
 ---
 
-# 🗂 Struktur Project
+## 🗃️ Database Management System (DBMS)
+
+**DBMS Used:** MySQL + phpMyAdmin
+
+---
+
+## 📂 Project Structure
 
 ```bash
-/ml-shop/
+Nexa_Topup/
 ├── config/
 │   ├── db.php
 │   └── session.php
@@ -70,12 +144,12 @@ NexaTopup adalah website top up Mobile Legends berbasis PHP dan MySQL yang menye
 │
 └── sql/
     └── database.sql
+```
 
-🛠 Teknologi yang Digunakan
-PHP Native
-MySQL
-HTML5
-CSS
-JavaScript
-Session PHP
-XAMPP / Apache
+---
+
+## 🌐 Alamat Website
+
+```txt
+http://localhost/Nexa_Topup/
+```
