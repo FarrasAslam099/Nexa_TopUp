@@ -247,17 +247,22 @@ Nexa_TopupBARU/
 
 ### 📷 Screenshot Tampilan Website
 
-<img width="698" height="364" alt="Halaman Beranda" src="https://github.com/user-attachments/assets/61f01cf9-dd40-41de-9182-ebe01a478613" />
+<p align="center">
+  <img width="698" height="364" alt="Homepage" src="https://github.com/user-attachments/assets/61f01cf9-dd40-41de-9182-ebe01a478613" />
+  <br>
 
 <p align="center"><em>Gambar 1. Tampilan halaman beranda (homepage) website Nexa Topup.</em></p>
 
-<img width="689" height="365" alt="Daftar Produk" src="https://github.com/user-attachments/assets/6a900d50-f0a9-4e57-888e-cf47dff3de66" />
-
+<p align="center">
+  <img width="689" height="365" alt="Katalog Produk" src="https://github.com/user-attachments/assets/6a900d50-f0a9-4e57-888e-cf47dff3de66" />
+  <br>
 <p align="center"><em>Gambar 2. Tampilan user melakuakan pembelian produk game yang tersedia untuk top up.</em></p>
 
-<img width="693" height="365" alt="Detail Produk" src="https://github.com/user-attachments/assets/51509ce1-3e75-47dd-871a-6376958d3be0" />
+<p align="center">
+  <img width="693" height="365" alt="Detail Produk" src="https://github.com/user-attachments/assets/51509ce1-3e75-47dd-871a-6376958d3be0" />
+  <br>
 
-<p align="center"><em>Gambar 3. Tampilan pada menu admin yang adminnya bisa menentukan status transaksi.</em></p>
+<p align="center"><em>Gambar 3. Tampilan pada menu admin untuk menentukan status transaksi user.</em></p>
 
 
 # AI Usage Statement
